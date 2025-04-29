@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Queazy** – an AI-powered quiz platform for educators  
 - 🌱 I’m currently diving deeper into **system design, networking**, and **scalable architectures**  
 - 💡 Exploring **GSoC**, open source, and building **AI tools that actually solve real problems**
-- 📫 Reach me at: **irishittiwari@gmail.com**
+- 📫 Reach me at: **irishittiwari@gmail.com** **22cs3050@rgipt.ac.in**
 
 ---
 
